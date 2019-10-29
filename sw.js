@@ -6,7 +6,7 @@ const IMMUTABLE_CACHE = 'inmutable-v1';
 
 //app_shell todo lo necesario para que funcione la aplicación
 const APP_SHELL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
